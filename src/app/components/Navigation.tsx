@@ -28,7 +28,7 @@ export function Navigation() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <Plane className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-semibold">WanderWorld</span>
+            <span className="text-xl font-semibold">Tripie</span>
           </Link>
 
           {/* Desktop Navigation */}
