@@ -6,4 +6,9 @@
 
   Run `npm run dev` to start the development server.
   
-pogi ako
+pogi akogi
+
+
+
+love hope
+
